@@ -4,3 +4,5 @@ import random
 size=5
 n=int((size+1)*random.random()) #n为0-5的任意整数
 print(n)
+
+#insert a word
